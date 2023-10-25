@@ -1,0 +1,66 @@
+id;search_query;name;full_name;description;fork;html_url
+1;pipeline data transformation mobile health;public-apis;public-apis/public-apis;A collective list of free APIs;false;https://github.com/public-apis/public-apis
+2;pipeline data transformation mobile health;the-gan-zoo;hindupuravinash/the-gan-zoo;A list of all named GANs!;false;https://github.com/hindupuravinash/the-gan-zoo
+3;pipeline data transformation mobile health;public-apis;public-apis-dev/public-apis;A collaborative list of public APIs for developers;false;https://github.com/public-apis-dev/public-apis
+4;pipeline data transformation mobile health;Awesome-FL;youngfish42/Awesome-FL;Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops);false;https://github.com/youngfish42/Awesome-FL
+5;pipeline data transformation mobile health;OpenShift-Guide;mikeroyal/OpenShift-Guide;OpenShift Guide. Learn about the Red Hat OpenShift Container Platform, Data Science, Code Ready Containers, Podman, Buildah, and Kubernetes.;false;https://github.com/mikeroyal/OpenShift-Guide
+6;pipeline data transformation mobile health;BP-prediction-survey;v3551G/BP-prediction-survey;;false;https://github.com/v3551G/BP-prediction-survey
+7;pipeline data transformation mobile health;arxiv-daily;beiyuouo/arxiv-daily;🎓 Automatically Update Some Fields Papers Daily using Github Actions (Update Every 12th hours);false;https://github.com/beiyuouo/arxiv-daily
+8;pipeline data transformation mobile health;daily_arxiv;zhuwenxing/daily_arxiv;Using GitHub Action to collect paper list with publicly available source code in the daily arxiv;false;https://github.com/zhuwenxing/daily_arxiv
+9;pipeline data transformation mobile health;Data-Science-Roadmap-v1;BioInformatica-Labs/Data-Science-Roadmap-v1;Data Science Roadmap Guide;false;https://github.com/BioInformatica-Labs/Data-Science-Roadmap-v1
+10;pipeline data transformation mobile health;nlp-arxiv-daily;monologg/nlp-arxiv-daily;Automatically Update NLP Papers Daily using Github Actions (ref: https://github.com/Vincentqyw/cv-arxiv-daily);false;https://github.com/monologg/nlp-arxiv-daily
+11;pipeline data transformation mobile health;Zappa;zappa/Zappa;Serverless Python ;false;https://github.com/zappa/Zappa
+12;pipeline data transformation mobile health;cv-arxiv-daily;DWCTOD/cv-arxiv-daily;;false;https://github.com/DWCTOD/cv-arxiv-daily
+13;pipeline data transformation mobile health;apis_public;puri3/apis_public;;false;https://github.com/puri3/apis_public
+14;pipeline data transformation mobile health;awesome;amorist/awesome;manage my github star;false;https://github.com/amorist/awesome
+15;pipeline data transformation mobile health;apis-publicas;rleitecosta/apis-publicas;https://github.com/public-apis/public-apis;false;https://github.com/rleitecosta/apis-publicas
+16;pipeline data transformation mobile health;awesome-free-mit;SuperSonicHub1/awesome-free-mit;A collection of free stuff you can get at the Massachusetts Institute of Technology.;false;https://github.com/SuperSonicHub1/awesome-free-mit
+17;pipeline data transformation mobile health;Public_APIs;slmsshk/Public_APIs;;false;https://github.com/slmsshk/Public_APIs
+18;pipeline data transformation mobile health;fucking-public-apis;Correia-jpv/fucking-public-apis;A collective list of free APIs. With repository stars⭐ and forks🍴;false;https://github.com/Correia-jpv/fucking-public-apis
+19;pipeline data transformation mobile health;DaliyAction;uivid64/DaliyAction;GitHub Actions for Daily Subscription;false;https://github.com/uivid64/DaliyAction
+20;pipeline data transformation mobile health;ai_ml;sksoumik/ai_ml;Theoretical notes on Machine Learning;false;https://github.com/sksoumik/ai_ml
+21;pipeline data transformation mobile health;APIs-Publicos;arnaldo-tomo/APIs-Publicos;A collective list of free APIs for use in software and web development;false;https://github.com/arnaldo-tomo/APIs-Publicos
+22;pipeline data transformation mobile health;Arxiv-NLP-Reporter;JackHCC/Arxiv-NLP-Reporter;每日自动获取Arxiv上NLP相关最新论文【Arxiv Natural Language Processing Paper Automatic Crawl Daily】;false;https://github.com/JackHCC/Arxiv-NLP-Reporter
+23;pipeline data transformation mobile health;PythonWebApis;Jack840517/PythonWebApis;;false;https://github.com/Jack840517/PythonWebApis
+24;pipeline data transformation mobile health;public-apis;andresGitDev/public-apis;Public Apis;false;https://github.com/andresGitDev/public-apis
+25;pipeline data transformation mobile health;Public-APIs;ahmedgamaall/Public-APIs;;false;https://github.com/ahmedgamaall/Public-APIs
+26;pipeline data transformation mobile health;public-apis;morimario888/public-apis;public-apis;false;https://github.com/morimario888/public-apis
+27;pipeline data transformation mobile health;public-apis;artyang/public-apis;;false;https://github.com/artyang/public-apis
+28;pipeline data transformation mobile health;awesome-stars;sunlei/awesome-stars;My GitHub stars.;false;https://github.com/sunlei/awesome-stars
+29;pipeline data transformation mobile health;awesome-from-stars;krzemienski/awesome-from-stars;;false;https://github.com/krzemienski/awesome-from-stars
+30;pipeline data transformation mobile health;vocabulary;zxyle/vocabulary;Computer Science Vocabulary;false;https://github.com/zxyle/vocabulary
+31;pipeline data transformation mobile health;DailyArxiv;shu-le/DailyArxiv;;false;https://github.com/shu-le/DailyArxiv
+32;pipeline data transformation mobile health;reqbase;LatticeData/reqbase;;false;https://github.com/LatticeData/reqbase
+33;pipeline data transformation mobile health;naming;wklken/naming;Naming is the most difficult part of programming, this repo may save your time.;false;https://github.com/wklken/naming
+34;pipeline data transformation mobile health;Zappa;powermobileweb/Zappa;Serverless Python https://blog.zappa.io/;false;https://github.com/powermobileweb/Zappa
+35;pipeline data visualization mobile health;awesome-aws;donnemartin/awesome-aws;A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.;false;https://github.com/donnemartin/awesome-aws
+36;pipeline data visualization mobile health;devops-exercises;bregman-arie/devops-exercises;Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions;false;https://github.com/bregman-arie/devops-exercises
+37;pipeline data visualization mobile health;awesome-iot;phodal/awesome-iot;Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform;false;https://github.com/phodal/awesome-iot
+38;pipeline data visualization mobile health;ehr-relation-extraction;smitkiri/ehr-relation-extraction;NER and Relation Extraction from Electronic Health Records (EHR).;false;https://github.com/smitkiri/ehr-relation-extraction
+39;pipeline data visualization mobile health;Nagios-Plugins;HariSekhon/Nagios-Plugins;450+ AWS, Hadoop, Cloud, Kafka, Docker, Elasticsearch, RabbitMQ, Redis, HBase, Solr, Cassandra, ZooKeeper, HDFS, Yarn, Hive, Presto, Drill, Impala, Consul, Spark, Jenkins, Travis CI, Git, MySQL, Linux, DNS, Whois, SSL Certs, Yum Security Updates, Kubernetes, Cloudera etc...;false;https://github.com/HariSekhon/Nagios-Plugins
+40;pipeline data visualization mobile health;Awesome-Linux-Software;luong-komorebi/Awesome-Linux-Software;🐧 A list of awesome Linux softwares ;false;https://github.com/luong-komorebi/Awesome-Linux-Software
+41;pipeline data visualization mobile health;awesome-geospatial-companies;chrieke/awesome-geospatial-companies;:globe_with_meridians: List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..);false;https://github.com/chrieke/awesome-geospatial-companies
+42;pipeline data visualization mobile health;HomeAssistantConfig;bacco007/HomeAssistantConfig;My Home Assistant Configuration;false;https://github.com/bacco007/HomeAssistantConfig
+43;pipeline data visualization mobile health;more-awesome;0ex/more-awesome;"An extensive list of ""awesome"" lists to help you find resources and starting points on every topic.";false;https://github.com/0ex/more-awesome
+44;pipeline data visualization mobile health;favorite-link;guanguans/favorite-link;❤️ 每天收集喜欢的开源项目 | RSS 订阅 |  快知 app 订阅;false;https://github.com/guanguans/favorite-link
+45;pipeline data visualization mobile health;netdevops;juliogomez/netdevops;Hands-on with NetDevOps;false;https://github.com/juliogomez/netdevops
+46;pipeline data visualization mobile health;Proloquium;gruckion/Proloquium;Proloquium;false;https://github.com/gruckion/Proloquium
+47;pipeline data visualization mobile health;TensorflowAPI;ShilpaJagadeeshappa/TensorflowAPI;TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks.;false;https://github.com/ShilpaJagadeeshappa/TensorflowAPI
+48;pipeline data visualization mobile health;awesome-ios-star;damozhang/awesome-ios-star;All data is from https://github.com/vsouza/awesome-ios. Only the GitHub star count is added to this list.  Update every day.;false;https://github.com/damozhang/awesome-ios-star
+49;pipeline data visualization mobile health;Yggdrasil;AaronCWacker/Yggdrasil;Knowledge Tree of Genomics, Natural Language Processing and Machine Learning;false;https://github.com/AaronCWacker/Yggdrasil
+50;pipeline data visualization mobile health;awesomea-aws;upender967/awesomea-aws;;false;https://github.com/upender967/awesomea-aws
+51;pipeline data visualization mobile health;company-similarity;wuxmax/company-similarity;Tool for computing company similarities based on description texts and geolocation;false;https://github.com/wuxmax/company-similarity
+52;pipeline data visualization mobile health;Adhoc-ST-2019-;piyushagarwal08/Adhoc-ST-2019-;a diary about everything taught at adhoc during summer training 2019;false;https://github.com/piyushagarwal08/Adhoc-ST-2019-
+53;pipeline data visualization mobile health;github-trending;johe123qwe/github-trending;定时抓取 Github Trending;false;https://github.com/johe123qwe/github-trending
+54;pipeline data visualization mobile health;DevOps-Practice;ninjadev0831/DevOps-Practice;Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions;false;https://github.com/ninjadev0831/DevOps-Practice
+55;pipeline data visualization mobile health;fucking-Awesome-Linux-Software;Correia-jpv/fucking-Awesome-Linux-Software;A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴;false;https://github.com/Correia-jpv/fucking-Awesome-Linux-Software
+56;pipeline data visualization mobile health;DevOps-Practice;azuredevil053/DevOps-Practice;;false;https://github.com/azuredevil053/DevOps-Practice
+57;pipeline data visualization mobile health;Complex-Table-Extraction;johnny0213/Complex-Table-Extraction;;false;https://github.com/johnny0213/Complex-Table-Extraction
+58;pipeline data visualization mobile health;devops-exercises;azuredevil053/devops-exercises;;false;https://github.com/azuredevil053/devops-exercises
+59;pipeline data visualization mobile health;my-star-repos;aben1188/my-star-repos;;false;https://github.com/aben1188/my-star-repos
+60;pipeline data visualization mobile health;EchoPiBox-2.0;Rita888/EchoPiBox-2.0;MSc Connected Environments Dissertation, UCL 2023;false;https://github.com/Rita888/EchoPiBox-2.0
+61;pipeline data visualization mobile health;aws_sysops_tasks;xiongye77/aws_sysops_tasks;;false;https://github.com/xiongye77/aws_sysops_tasks
+62;pipeline data visualization mobile health;devops-exercises;neutrinoxtronic/devops-exercises;;false;https://github.com/neutrinoxtronic/devops-exercises
+63;pipeline data visualization mobile health;DevOpsExercises;MehrajPatel/DevOpsExercises;;false;https://github.com/MehrajPatel/DevOpsExercises
+64;pipeline data visualization mobile health;DevOps_All_master;SrinivasaDuggempudi/DevOps_All_master;;false;https://github.com/SrinivasaDuggempudi/DevOps_All_master
+65;pipeline data visualization mhealth;JMIR2023;INTREPIBD/JMIR2023;"Code for JMIR mHealth and uHealth paper ""Exploring digital biomarkers of illness activity in mood episodes: hypotheses generating and model development study.""";false;https://github.com/INTREPIBD/JMIR2023

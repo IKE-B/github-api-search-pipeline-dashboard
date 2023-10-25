@@ -1,0 +1,27 @@
+name;full_name;description;fork;html_url
+awesome-aws;donnemartin/awesome-aws;A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.;false;https://github.com/donnemartin/awesome-aws
+public-apis;public-apis/public-apis;A collective list of free APIs;false;https://github.com/public-apis/public-apis
+devops-exercises;bregman-arie/devops-exercises;Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions;false;https://github.com/bregman-arie/devops-exercises
+awesome-iot;phodal/awesome-iot;Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform;false;https://github.com/phodal/awesome-iot
+ehr-relation-extraction;smitkiri/ehr-relation-extraction;NER and Relation Extraction from Electronic Health Records (EHR).;false;https://github.com/smitkiri/ehr-relation-extraction
+Nagios-Plugins;HariSekhon/Nagios-Plugins;450+ AWS, Hadoop, Cloud, Kafka, Docker, Elasticsearch, RabbitMQ, Redis, HBase, Solr, Cassandra, ZooKeeper, HDFS, Yarn, Hive, Presto, Drill, Impala, Consul, Spark, Jenkins, Travis CI, Git, MySQL, Linux, DNS, Whois, SSL Certs, Yum Security Updates, Kubernetes, Cloudera etc...;false;https://github.com/HariSekhon/Nagios-Plugins
+the-gan-zoo;hindupuravinash/the-gan-zoo;A list of all named GANs!;false;https://github.com/hindupuravinash/the-gan-zoo
+Awesome-Linux-Software;luong-komorebi/Awesome-Linux-Software;🐧 A list of awesome Linux softwares ;false;https://github.com/luong-komorebi/Awesome-Linux-Software
+public-apis;public-apis-dev/public-apis;A collaborative list of public APIs for developers;false;https://github.com/public-apis-dev/public-apis
+awesome-geospatial-companies;chrieke/awesome-geospatial-companies;:globe_with_meridians: List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..);false;https://github.com/chrieke/awesome-geospatial-companies
+Awesome-FL;youngfish42/Awesome-FL;Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops);false;https://github.com/youngfish42/Awesome-FL
+HomeAssistantConfig;bacco007/HomeAssistantConfig;My Home Assistant Configuration;false;https://github.com/bacco007/HomeAssistantConfig
+more-awesome;0ex/more-awesome;"An extensive list of ""awesome"" lists to help you find resources and starting points on every topic.";false;https://github.com/0ex/more-awesome
+OpenShift-Guide;mikeroyal/OpenShift-Guide;OpenShift Guide. Learn about the Red Hat OpenShift Container Platform, Data Science, Code Ready Containers, Podman, Buildah, and Kubernetes.;false;https://github.com/mikeroyal/OpenShift-Guide
+favorite-link;guanguans/favorite-link;❤️ 每天收集喜欢的开源项目 | RSS 订阅 |  快知 app 订阅;false;https://github.com/guanguans/favorite-link
+netdevops;juliogomez/netdevops;Hands-on with NetDevOps;false;https://github.com/juliogomez/netdevops
+daily_arxiv;zhuwenxing/daily_arxiv;Using GitHub Action to collect paper list with publicly available source code in the daily arxiv;false;https://github.com/zhuwenxing/daily_arxiv
+arxiv-daily;beiyuouo/arxiv-daily;🎓 Automatically Update Some Fields Papers Daily using Github Actions (Update Every 12th hours);false;https://github.com/beiyuouo/arxiv-daily
+nlp-arxiv-daily;monologg/nlp-arxiv-daily;Automatically Update NLP Papers Daily using Github Actions (ref: https://github.com/Vincentqyw/cv-arxiv-daily);false;https://github.com/monologg/nlp-arxiv-daily
+awesome-ios-star;damozhang/awesome-ios-star;All data is from https://github.com/vsouza/awesome-ios. Only the GitHub star count is added to this list.  Update every day.;false;https://github.com/damozhang/awesome-ios-star
+awesome;amorist/awesome;manage my github star;false;https://github.com/amorist/awesome
+cv-arxiv-daily;DWCTOD/cv-arxiv-daily;;false;https://github.com/DWCTOD/cv-arxiv-daily
+awesome-free-mit;SuperSonicHub1/awesome-free-mit;A collection of free stuff you can get at the Massachusetts Institute of Technology.;false;https://github.com/SuperSonicHub1/awesome-free-mit
+fucking-Awesome-Linux-Software;Correia-jpv/fucking-Awesome-Linux-Software;A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴;false;https://github.com/Correia-jpv/fucking-Awesome-Linux-Software
+Arxiv-NLP-Reporter;JackHCC/Arxiv-NLP-Reporter;每日自动获取Arxiv上NLP相关最新论文【Arxiv Natural Language Processing Paper Automatic Crawl Daily】;false;https://github.com/JackHCC/Arxiv-NLP-Reporter
+naming;wklken/naming;Naming is the most difficult part of programming, this repo may save your time.;false;https://github.com/wklken/naming

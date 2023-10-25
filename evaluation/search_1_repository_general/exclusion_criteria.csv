@@ -1,0 +1,11 @@
+key;description
+too_specific;Item is related to data pipelines, maybe a framework, but too specific or not fitting for our purpose.
+not_d_p;Item is not related to data pipelines.
+not_d_p_f;"Item is related to data pipelines, but not a framework (at least not for our purposes)."
+not_free;Item is not free to use (inappropriate license).
+not_on_premise;Item can't be hosted on premise.
+update_gt_3y;Item was not significantly updated/maintained in the last 3 years.
+duplicate;Item is a duplicate or mirror of a repository.
+qs_issues;Item isn't ready for production usage.
+other;Item was not included. More information in the column reason_other.
+NOTE;Duplicates were not excluded, because there were less than 10 % => overview and keeping the search queries

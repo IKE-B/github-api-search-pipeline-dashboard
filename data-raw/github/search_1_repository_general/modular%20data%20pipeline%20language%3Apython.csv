@@ -1,0 +1,13 @@
+name;full_name;description;fork;html_url
+datapackage-pipelines;frictionlessdata/datapackage-pipelines;Framework for processing data packages in pipelines of modular components.;false;https://github.com/frictionlessdata/datapackage-pipelines
+kedro;kedro-org/kedro;Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.;false;https://github.com/kedro-org/kedro
+MERlin;emanuega/MERlin;MERlin is an extensible analysis pipeline applied to decoding MERFISH data;false;https://github.com/emanuega/MERlin
+automation;phytooracle/automation;Modular, Scalable Phenomic Data Processing Pipelines;false;https://github.com/phytooracle/automation
+MONSDA;jfallmann/MONSDA;MONSDA, Modular Organizer of Nextflow and Snakemake driven hts Data Analysis;false;https://github.com/jfallmann/MONSDA
+TP3Py;SUNYOpt/TP3Py;TP3PY: Modular Streaming Pipeline of Eye/Head Tracking Data Using Tobii Pro Glasses 3;false;https://github.com/SUNYOpt/TP3Py
+peppro;databio/peppro;A modular, containerized pipeline for PRO-seq data processing;false;https://github.com/databio/peppro
+dtflw;SoleyIo/dtflw;dtflw is a Python framework for building modular data pipelines based on Databricks dbutils.notebook API.;false;https://github.com/SoleyIo/dtflw
+pavlov;ntaylorwss/pavlov;A modular, composable approach to reinforcement learning with a Keras backend and a functional data pipeline.;false;https://github.com/ntaylorwss/pavlov
+ralsei-py;snorkysnark/ralsei-py;Build modular data pipelines running inside the postgres database;false;https://github.com/snorkysnark/ralsei-py
+End-to-end-ML-System-Benchmark;hpides/End-to-end-ML-System-Benchmark;A modular suite for benchmarking all stages of Machine Learning pipelines. To find bottlenecks in such pipelines and compare different ML tools, this framework can calculate and visualize several metrics in the data preparation, model training, model validation and inference stages.;false;https://github.com/hpides/End-to-end-ML-System-Benchmark
+hydra-nlp-neural-nets;shahrukhx01/hydra-nlp-neural-nets;A hydra based Natural Language Processing (NLP) pipeline boilerplate with loggers embbeded, allowing for streamlining deep learning models and accomodating experimentation while also being able to write modular scalable code. The best feature is that the code is completely parametrized via config file, which minimizes code changes when data changes etc.;false;https://github.com/shahrukhx01/hydra-nlp-neural-nets

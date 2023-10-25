@@ -1,0 +1,61 @@
+name;full_name;description;fork;html_url
+awesome-aws;donnemartin/awesome-aws;A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.;false;https://github.com/donnemartin/awesome-aws
+public-apis;public-apis/public-apis;A collective list of free APIs;false;https://github.com/public-apis/public-apis
+devops-exercises;bregman-arie/devops-exercises;Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions;false;https://github.com/bregman-arie/devops-exercises
+awesome-iot;phodal/awesome-iot;Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform;false;https://github.com/phodal/awesome-iot
+ehr-relation-extraction;smitkiri/ehr-relation-extraction;NER and Relation Extraction from Electronic Health Records (EHR).;false;https://github.com/smitkiri/ehr-relation-extraction
+Nagios-Plugins;HariSekhon/Nagios-Plugins;450+ AWS, Hadoop, Cloud, Kafka, Docker, Elasticsearch, RabbitMQ, Redis, HBase, Solr, Cassandra, ZooKeeper, HDFS, Yarn, Hive, Presto, Drill, Impala, Consul, Spark, Jenkins, Travis CI, Git, MySQL, Linux, DNS, Whois, SSL Certs, Yum Security Updates, Kubernetes, Cloudera etc...;false;https://github.com/HariSekhon/Nagios-Plugins
+the-gan-zoo;hindupuravinash/the-gan-zoo;A list of all named GANs!;false;https://github.com/hindupuravinash/the-gan-zoo
+Awesome-Linux-Software;luong-komorebi/Awesome-Linux-Software;🐧 A list of awesome Linux softwares ;false;https://github.com/luong-komorebi/Awesome-Linux-Software
+public-apis;public-apis-dev/public-apis;A collaborative list of public APIs for developers;false;https://github.com/public-apis-dev/public-apis
+awesome-geospatial-companies;chrieke/awesome-geospatial-companies;:globe_with_meridians: List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..);false;https://github.com/chrieke/awesome-geospatial-companies
+Awesome-FL;youngfish42/Awesome-FL;Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops);false;https://github.com/youngfish42/Awesome-FL
+HomeAssistantConfig;bacco007/HomeAssistantConfig;My Home Assistant Configuration;false;https://github.com/bacco007/HomeAssistantConfig
+more-awesome;0ex/more-awesome;"An extensive list of ""awesome"" lists to help you find resources and starting points on every topic.";false;https://github.com/0ex/more-awesome
+OpenShift-Guide;mikeroyal/OpenShift-Guide;OpenShift Guide. Learn about the Red Hat OpenShift Container Platform, Data Science, Code Ready Containers, Podman, Buildah, and Kubernetes.;false;https://github.com/mikeroyal/OpenShift-Guide
+favorite-link;guanguans/favorite-link;❤️ 每天收集喜欢的开源项目 | RSS 订阅 |  快知 app 订阅;false;https://github.com/guanguans/favorite-link
+netdevops;juliogomez/netdevops;Hands-on with NetDevOps;false;https://github.com/juliogomez/netdevops
+daily_arxiv;zhuwenxing/daily_arxiv;Using GitHub Action to collect paper list with publicly available source code in the daily arxiv;false;https://github.com/zhuwenxing/daily_arxiv
+Data-Science-Roadmap-v1;BioInformatica-Labs/Data-Science-Roadmap-v1;Data Science Roadmap Guide;false;https://github.com/BioInformatica-Labs/Data-Science-Roadmap-v1
+Proloquium;gruckion/Proloquium;Proloquium;false;https://github.com/gruckion/Proloquium
+arxiv-daily;beiyuouo/arxiv-daily;🎓 Automatically Update Some Fields Papers Daily using Github Actions (Update Every 12th hours);false;https://github.com/beiyuouo/arxiv-daily
+TensorflowAPI;ShilpaJagadeeshappa/TensorflowAPI;TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks.;false;https://github.com/ShilpaJagadeeshappa/TensorflowAPI
+nlp-arxiv-daily;monologg/nlp-arxiv-daily;Automatically Update NLP Papers Daily using Github Actions (ref: https://github.com/Vincentqyw/cv-arxiv-daily);false;https://github.com/monologg/nlp-arxiv-daily
+awesome-ios-star;damozhang/awesome-ios-star;All data is from https://github.com/vsouza/awesome-ios. Only the GitHub star count is added to this list.  Update every day.;false;https://github.com/damozhang/awesome-ios-star
+awesome;amorist/awesome;manage my github star;false;https://github.com/amorist/awesome
+Yggdrasil;AaronCWacker/Yggdrasil;Knowledge Tree of Genomics, Natural Language Processing and Machine Learning;false;https://github.com/AaronCWacker/Yggdrasil
+cv-arxiv-daily;DWCTOD/cv-arxiv-daily;;false;https://github.com/DWCTOD/cv-arxiv-daily
+apis_public;puri3/apis_public;;false;https://github.com/puri3/apis_public
+awesomea-aws;upender967/awesomea-aws;;false;https://github.com/upender967/awesomea-aws
+company-similarity;wuxmax/company-similarity;Tool for computing company similarities based on description texts and geolocation;false;https://github.com/wuxmax/company-similarity
+apis-publicas;rleitecosta/apis-publicas;https://github.com/public-apis/public-apis;false;https://github.com/rleitecosta/apis-publicas
+Public_APIs;slmsshk/Public_APIs;;false;https://github.com/slmsshk/Public_APIs
+awesome-free-mit;SuperSonicHub1/awesome-free-mit;A collection of free stuff you can get at the Massachusetts Institute of Technology.;false;https://github.com/SuperSonicHub1/awesome-free-mit
+fucking-public-apis;Correia-jpv/fucking-public-apis;A collective list of free APIs. With repository stars⭐ and forks🍴;false;https://github.com/Correia-jpv/fucking-public-apis
+Adhoc-ST-2019-;piyushagarwal08/Adhoc-ST-2019-;a diary about everything taught at adhoc during summer training 2019;false;https://github.com/piyushagarwal08/Adhoc-ST-2019-
+github-trending;johe123qwe/github-trending;定时抓取 Github Trending;false;https://github.com/johe123qwe/github-trending
+DevOps-Practice;ninjadev0831/DevOps-Practice;Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions;false;https://github.com/ninjadev0831/DevOps-Practice
+fucking-Awesome-Linux-Software;Correia-jpv/fucking-Awesome-Linux-Software;A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴;false;https://github.com/Correia-jpv/fucking-Awesome-Linux-Software
+DaliyAction;uivid64/DaliyAction;GitHub Actions for Daily Subscription;false;https://github.com/uivid64/DaliyAction
+DevOps-Practice;azuredevil053/DevOps-Practice;;false;https://github.com/azuredevil053/DevOps-Practice
+Arxiv-NLP-Reporter;JackHCC/Arxiv-NLP-Reporter;每日自动获取Arxiv上NLP相关最新论文【Arxiv Natural Language Processing Paper Automatic Crawl Daily】;false;https://github.com/JackHCC/Arxiv-NLP-Reporter
+APIs-Publicos;arnaldo-tomo/APIs-Publicos;A collective list of free APIs for use in software and web development;false;https://github.com/arnaldo-tomo/APIs-Publicos
+ai_ml;sksoumik/ai_ml;Theoretical notes on Machine Learning;false;https://github.com/sksoumik/ai_ml
+Complex-Table-Extraction;johnny0213/Complex-Table-Extraction;;false;https://github.com/johnny0213/Complex-Table-Extraction
+PythonWebApis;Jack840517/PythonWebApis;;false;https://github.com/Jack840517/PythonWebApis
+devops-exercises;azuredevil053/devops-exercises;;false;https://github.com/azuredevil053/devops-exercises
+awesome-stars;sunlei/awesome-stars;My GitHub stars.;false;https://github.com/sunlei/awesome-stars
+my-star-repos;aben1188/my-star-repos;;false;https://github.com/aben1188/my-star-repos
+EchoPiBox-2.0;Rita888/EchoPiBox-2.0;MSc Connected Environments Dissertation, UCL 2023;false;https://github.com/Rita888/EchoPiBox-2.0
+awesome-from-stars;krzemienski/awesome-from-stars;;false;https://github.com/krzemienski/awesome-from-stars
+aws_sysops_tasks;xiongye77/aws_sysops_tasks;;false;https://github.com/xiongye77/aws_sysops_tasks
+public-apis;morimario888/public-apis;public-apis;false;https://github.com/morimario888/public-apis
+public-apis;andresGitDev/public-apis;Public Apis;false;https://github.com/andresGitDev/public-apis
+Public-APIs;ahmedgamaall/Public-APIs;;false;https://github.com/ahmedgamaall/Public-APIs
+public-apis;artyang/public-apis;;false;https://github.com/artyang/public-apis
+devops-exercises;neutrinoxtronic/devops-exercises;;false;https://github.com/neutrinoxtronic/devops-exercises
+DevOpsExercises;MehrajPatel/DevOpsExercises;;false;https://github.com/MehrajPatel/DevOpsExercises
+naming;wklken/naming;Naming is the most difficult part of programming, this repo may save your time.;false;https://github.com/wklken/naming
+DevOps_All_master;SrinivasaDuggempudi/DevOps_All_master;;false;https://github.com/SrinivasaDuggempudi/DevOps_All_master
+DailyArxiv;shu-le/DailyArxiv;;false;https://github.com/shu-le/DailyArxiv
+vocabulary;zxyle/vocabulary;Computer Science Vocabulary;false;https://github.com/zxyle/vocabulary
