@@ -1,4 +1,6 @@
-# Findings
+# GitHub REST API Search - Findings
+
+[GitHub REST API documentation](https://docs.github.com/de/rest?apiVersion=2022-11-28)
 
 Three rounds of searches were conducted (2023-10-12).
 
